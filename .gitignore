@@ -1,0 +1,6 @@
+.idea/*
+target/*
+args
+host
+*.example.com
+testAuto/*.jar

@@ -1,0 +1,34 @@
+{
+  "neighbours": [
+    {
+      "domain": "127.0.0.1",
+      "port": 1024
+    },
+    {
+      "domain": "127.0.0.1",
+      "port": 1025
+    },
+    {
+      "domain": "127.0.0.1",
+      "port": 1026
+    }
+  ],
+  "products": [
+    {
+      "productId": 0,
+      "productName": "Fish"
+    },
+    {
+      "productId": 1,
+      "productName": "Salt"
+    },
+    {
+      "productId": 2,
+      "productName": "Boars"
+    }
+  ],
+  "selfAdd": {
+    "port": 1023,
+    "domain": "peer0"
+  }
+}

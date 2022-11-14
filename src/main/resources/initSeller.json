@@ -1,0 +1,1 @@
+{"neighbours":[{"domain":"peer1","port":1024},{"domain":"peer2","port":1025},{"domain":"peer3","port":1026}],"stock":{"Product{productId=0, productName='Fish'}":10,"Product{productId=2, productName='Boars'}":10,"Product{productId=1, productName='Salt'}":10},"selfAdd":{"domain":"peer0","port":1023}}

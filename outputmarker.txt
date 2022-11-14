@@ -1,0 +1,44 @@
+version: "3.3"
+services:
+    peer5:
+        build: .
+        volumes:
+            - ./cs677.lab1.peer5.example.com:/app
+        working_dir:
+            /app
+    peer4:
+        build: .
+        volumes:
+            - ./cs677.lab1.peer4.example.com:/app
+        working_dir:
+            /app
+    peer6:
+        build: .
+        volumes:
+            - ./cs677.lab1.peer6.example.com:/app
+        working_dir:
+            /app
+    peer0:
+        build: .
+        volumes:
+            - ./cs677.lab1.peer0.example.com:/app
+        working_dir:
+            /app
+    peer1:
+        build: .
+        volumes:
+            - ./cs677.lab1.peer1.example.com:/app
+        working_dir:
+            /app
+    peer2:
+        build: .
+        volumes:
+            - ./cs677.lab1.peer2.example.com:/app
+        working_dir:
+            /app
+    peer3:
+        build: .
+        volumes:
+            - ./cs677.lab1.peer3.example.com:/app
+        working_dir:
+            /app

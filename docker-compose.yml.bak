@@ -1,0 +1,8 @@
+version: "3.3"
+services:
+  peer0:
+    build: .
+    volumes:
+      - ./cs677.lab1.peer6.example.com:/app
+    working_dir:
+      /app

@@ -1,0 +1,18 @@
+sellerNumber: 6
+buyerNumber: 24
+port: 2121
+deployOnSingleComputer: false
+neighbourNum: 1
+maxJump: 11
+sleepBeforeStart: 10
+numberOfTests: 1000
+
+
+maxmumStok: 100
+productNameList:
+  - Fish
+  - Salt
+  - Boar
+
+
+
