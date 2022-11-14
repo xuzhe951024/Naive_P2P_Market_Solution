@@ -4,3 +4,4 @@ args
 host
 *.example.com
 testAuto/*.jar
+.DS_Store
